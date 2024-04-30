@@ -13,6 +13,7 @@ https://codeforces.com/problemset/problem/1705/B
 
 classic:
 https://codeforces.com/problemset/problem/1342/A
+https://codeforces.com/problemset/problem/1338/A
 
 analyse:
 https://codeforces.com/problemset/problem/1626/B
