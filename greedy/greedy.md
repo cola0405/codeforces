@@ -17,3 +17,6 @@ https://codeforces.com/problemset/problem/1338/A
 
 analyse:
 https://codeforces.com/problemset/problem/1626/B
+
+medium:
+(prefix + greedy): https://codeforces.com/problemset/problem/1426/D
