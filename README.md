@@ -1,1 +1,1 @@
-"# codeforces" 
+Solution for codeforces
