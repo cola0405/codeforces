@@ -23,7 +23,7 @@ int main(){
         }
         
         int ans = INT_MAX;
-        for(int i=n; i<=2*n; i++){
+        for(int i=n-1; i<2*n; i++){
             if(up[i] == n-1) ans = min({ans, 2*n-i-1, i-n+3});
             if(down[i] == n-1) ans = min({ans, 2*n-i, i-n+2});
         }
