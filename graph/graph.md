@@ -10,3 +10,5 @@ https://codeforces.com/contest/350/problem/B
 https://codeforces.com/contest/369/problem/C
 (not all graph problems need dfs)
 https://codeforces.com/problemset/problem/246/D
+(in degree + dfs for section)
+https://codeforces.com/problemset/problem/780/C
