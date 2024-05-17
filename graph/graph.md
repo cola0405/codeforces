@@ -12,3 +12,5 @@ https://codeforces.com/contest/369/problem/C
 https://codeforces.com/problemset/problem/246/D
 (in degree + dfs for section)
 https://codeforces.com/problemset/problem/780/C
+(directed graph + model + greedy)
+https://codeforces.com/problemset/problem/1411/C
