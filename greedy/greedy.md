@@ -21,6 +21,7 @@ analyse:
 https://codeforces.com/problemset/problem/1626/B
 https://codeforces.com/problemset/problem/1907/F
 https://codeforces.com/problemset/problem/258/A
+https://codeforces.com/problemset/problem/1783/C
 
 must:
 https://codeforces.com/problemset/problem/1334/C
