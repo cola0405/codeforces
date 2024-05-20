@@ -22,6 +22,9 @@ https://codeforces.com/problemset/problem/1626/B
 https://codeforces.com/problemset/problem/1907/F
 https://codeforces.com/problemset/problem/258/A
 https://codeforces.com/problemset/problem/1783/C
+https://codeforces.com/problemset/problem/1774/D
+(2000)
+https://codeforces.com/problemset/problem/1718/B
 
 must:
 https://codeforces.com/problemset/problem/1334/C
