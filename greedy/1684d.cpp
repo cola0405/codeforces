@@ -3,9 +3,14 @@
 // it's always optimal to use all k skip
 // but we can't easily select the k first damage, because of the bonus damage
 // so the solution to solve it is consider the damge and bonus damage at the same time 
-// let's see this equation: bi = ai + (n-1-i)
+// let's see this equation: bi = ai - (n-1-i)
 // for a single skip, it will cause the bonus damage to the remaining (n-1-i) elements in the right
-// so bi is the factor, our greedy strategy is skip the k first bi
+// bi is actually represent the value of this skip 
+// bi could be negative which means the bonus damage is greater than the damage of current trap
+// so our greedy strategy is select the k-first bi to skip
+
+// addition: you may consider that there may exist some skip after, and the right should not be (n-1-i)
+// but let's think it in this way, we make the best choice in the worst situation, and it should be the optimal strategry
 
 #include <iostream>
 #include <vector>
