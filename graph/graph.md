@@ -14,3 +14,7 @@ https://codeforces.com/problemset/problem/246/D
 https://codeforces.com/problemset/problem/780/C
 (directed graph + model + greedy)
 https://codeforces.com/problemset/problem/1411/C
+
+
+connected component + dsu + abstract:
+1209D
