@@ -21,6 +21,8 @@ https://codeforces.com/problemset/problem/1342/A
 https://codeforces.com/problemset/problem/1338/A
 (prefix)
 https://codeforces.com/problemset/problem/1426/D
+(prefix)
+545d
 
 
 easy:
