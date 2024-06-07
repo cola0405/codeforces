@@ -13,6 +13,10 @@ https://codeforces.com/problemset/problem/1718/B
 1615c
 
 
+specified point:
+1955c
+1364b
+
 binary search:
 1610c
 
