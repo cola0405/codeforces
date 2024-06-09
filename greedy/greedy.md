@@ -2,6 +2,9 @@ sort
 must
 always choose the endpoint
 
+get big + precision problem:
+1446a
+
 analyse:
 https://codeforces.com/problemset/problem/1626/B
 https://codeforces.com/problemset/problem/1907/F
@@ -31,7 +34,7 @@ https://codeforces.com/problemset/problem/1426/D
 
 easy:
 https://codeforces.com/problemset/problem/3/A
-
+462b
 
 general:
 https://codeforces.com/problemset/problem/1295/A
