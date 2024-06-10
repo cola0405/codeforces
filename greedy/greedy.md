@@ -14,7 +14,8 @@ https://codeforces.com/problemset/problem/1774/D
 (2000)
 https://codeforces.com/problemset/problem/1718/B
 1615c
-
+1717c
+1157b
 
 specified point:
 1955c
