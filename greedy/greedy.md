@@ -36,6 +36,8 @@ https://codeforces.com/problemset/problem/1426/D
 easy:
 https://codeforces.com/problemset/problem/3/A
 462b
+810b
+246b
 
 general:
 https://codeforces.com/problemset/problem/1295/A
